@@ -1,0 +1,150 @@
+<svg id="_Group_" data-name="&lt;Group&gt;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1067" height="1067" viewBox="0 0 1067 1067">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffefe4;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #edd4c2;
+        filter: url(#filter-2);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-7 {
+        fill: #69ebfc;
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-5 {
+        filter: url(#filter-4);
+      }
+
+      .cls-11, .cls-6 {
+        fill: #6770e6;
+      }
+
+      .cls-6 {
+        mix-blend-mode: screen;
+        filter: url(#filter-5);
+      }
+
+      .cls-7 {
+        filter: url(#filter-6);
+      }
+
+      .cls-8 {
+        fill: #a1f1fc;
+        filter: url(#filter-7);
+      }
+
+      .cls-12, .cls-9 {
+        fill: #ff8354;
+      }
+
+      .cls-9 {
+        filter: url(#filter-8);
+      }
+
+      .cls-10, .cls-13 {
+        fill: #d476e2;
+      }
+
+      .cls-10 {
+        filter: url(#filter-9);
+      }
+
+      .cls-11 {
+        filter: url(#filter-10);
+      }
+
+      .cls-12 {
+        filter: url(#filter-11);
+      }
+
+      .cls-13 {
+        filter: url(#filter-12);
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="1066.66" height="1066.66" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#d8d8d8"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="0" y="895.562" width="1066.66" height="171.098" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#363636"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="0" y="0" width="1066.66" height="166.656" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#363636"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="109.969" y="421.562" width="518.062" height="307.594" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#6e85bc"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="437.406" y="420.844" width="519.313" height="308.312" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#efa8f0"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="455.594" y="432.781" width="153.625" height="98.625" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#6e85bc"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="0" y="0" width="1066.66" height="166.656" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#1a1a1a"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="108.344" y="45.844" width="75" height="75" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ee9b52"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="247.906" y="45.844" width="75" height="75" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#efa8f0"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="387.5" y="45.844" width="75" height="75" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#6e85bc"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="317.406" y="229.156" width="431.844" height="129.188" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ee9b52"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-12" x="317.406" y="791.656" width="431.844" height="129.188" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#efa8f0"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Compound_Shape" data-name="Compound Shape" class="cls-1" d="M958.062,1066.67H108.6A108.609,108.609,0,0,1,0,958.062V108.6A108.6,108.6,0,0,1,108.6,0H958.062A108.609,108.609,0,0,1,1066.67,108.6V958.062A108.614,108.614,0,0,1,958.062,1066.67Z"/>
+  <path id="Compound_Shape-2" data-name="Compound Shape" class="cls-2" d="M958.062,1004.17H108.6A108.607,108.607,0,0,1,0,895.562v62.5A108.609,108.609,0,0,0,108.6,1066.67H958.062A108.614,108.614,0,0,0,1066.67,958.062v-62.5A108.612,108.612,0,0,1,958.062,1004.17Z"/>
+  <path id="Compound_Shape-3" data-name="Compound Shape" class="cls-3" d="M958.062,0H108.6A108.6,108.6,0,0,0,0,108.6v58.063H1066.67V108.6A108.609,108.609,0,0,0,958.062,0Z"/>
+  <path id="Compound_Shape-4" data-name="Compound Shape" class="cls-4" d="M591.566,501.605A72.859,72.859,0,0,0,539.692,523.1a73.884,73.884,0,0,0-7.177,8.319,72.95,72.95,0,0,1,.3,87.568,68.982,68.982,0,0,1-6.929,8.033A72.556,72.556,0,0,1,474.244,648.4H263.777a73.034,73.034,0,0,1-.018-146.067H455.607a154.775,154.775,0,0,1,76.375-69.559,153.24,153.24,0,0,0-57.738-11.212H263.778a153.805,153.805,0,0,0-.02,307.61H474.225A153.85,153.85,0,0,0,609.232,501.605H591.566Z"/>
+  <path id="Compound_Shape-5" data-name="Compound Shape" class="cls-5" d="M591.566,501.605A72.859,72.859,0,0,0,539.692,523.1a73.884,73.884,0,0,0-7.177,8.319,72.95,72.95,0,0,1,.3,87.568,68.982,68.982,0,0,1-6.929,8.033A72.556,72.556,0,0,1,474.244,648.4H263.777a73.034,73.034,0,0,1-.018-146.067H455.607a154.775,154.775,0,0,1,76.375-69.559,153.24,153.24,0,0,0-57.738-11.212H263.778a153.805,153.805,0,0,0-.02,307.61H474.225A153.85,153.85,0,0,0,609.232,501.605H591.566Z"/>
+  <path id="Compound_Shape-6" data-name="Compound Shape" class="cls-6" d="M802.547,420.834H591.585a154.077,154.077,0,0,0-59.6,11.936,154.4,154.4,0,0,1,77.25,68.836h193.3a73.4,73.4,0,1,1,.018,146.79H591.585A72.9,72.9,0,0,1,539.673,626.9a70.721,70.721,0,0,1-6.854-7.919,73.41,73.41,0,0,1-.3-87.568,72.888,72.888,0,0,0-58.29-29.088H455.607A154.118,154.118,0,0,0,591.566,729.166H802.528A154.167,154.167,0,0,0,802.547,420.834Z"/>
+  <path id="Compound_Shape-7" data-name="Compound Shape" class="cls-7" d="M582.98,466.6a154.881,154.881,0,0,1,26.252,35.008H591.566A72.859,72.859,0,0,0,539.692,523.1a73.884,73.884,0,0,0-7.177,8.319,72.888,72.888,0,0,0-58.29-29.088H455.607a154.775,154.775,0,0,1,76.375-69.559A153.69,153.69,0,0,1,582.98,466.6Z"/>
+  <path id="Compound_Shape-8" data-name="Compound Shape" class="cls-8" d="M958.062,0H108.6A108.6,108.6,0,0,0,0,108.6v58.063H0.112A108.592,108.592,0,0,1,108.6,62.5H958.062A108.59,108.59,0,0,1,1066.55,166.667h0.12V108.6A108.609,108.609,0,0,0,958.062,0Z"/>
+  <path id="Compound_Shape-9" data-name="Compound Shape" class="cls-9" d="M183.333,83.333a37.5,37.5,0,1,1-37.5-37.5A37.5,37.5,0,0,1,183.333,83.333Z"/>
+  <path id="Compound_Shape-10" data-name="Compound Shape" class="cls-10" d="M322.917,83.333a37.5,37.5,0,1,1-37.5-37.5A37.5,37.5,0,0,1,322.917,83.333Z"/>
+  <path id="Compound_Shape-11" data-name="Compound Shape" class="cls-11" d="M462.5,83.333a37.5,37.5,0,1,1-37.5-37.5A37.5,37.5,0,0,1,462.5,83.333Z"/>
+  <path id="Compound_Shape-12" data-name="Compound Shape" class="cls-12" d="M746.069,287.194l-71.59-56.231a8.336,8.336,0,0,0-13.486,6.556V271.28H339.881a22.47,22.47,0,1,0,0,44.94H660.993v33.761a8.336,8.336,0,0,0,13.486,6.556l71.59-56.231A8.337,8.337,0,0,0,746.069,287.194Z"/>
+  <path id="Compound_Shape-13" data-name="Compound Shape" class="cls-13" d="M320.6,849.694l71.59-56.231a8.336,8.336,0,0,1,13.486,6.556V833.78H726.786a22.47,22.47,0,0,1,0,44.94H405.674v33.761a8.336,8.336,0,0,1-13.486,6.556L320.6,862.806A8.337,8.337,0,0,1,320.6,849.694Z"/>
+</svg>
